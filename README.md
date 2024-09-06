@@ -1,3 +1,6 @@
+![Your paragraph text](https://github.com/user-attachments/assets/6111e535-b6ec-4787-a58b-e864104365ab)
+
+
 ## Hi there 👋
 
 <!--

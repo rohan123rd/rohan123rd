@@ -1,19 +1,15 @@
 ![Your paragraph text](https://github.com/user-attachments/assets/6111e535-b6ec-4787-a58b-e864104365ab)
+‎ 
+#
+<h1 align="center">🤙 Rohan Here! </h1>
+<h3 align="center">Full Stack Developer | Flutter Beginner | Basic Unreal Engine Concepts</h3>
 
-
-## Hi there 👋
-
-<!--
-**rohan123rd/rohan123rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+‎ 
+‎ 
+‎ 
+- 👨‍💻 Tech Enthusiast, Quick Learner
+- 📄 My PortFolio: [*PortFolio*](https://www.rohan.host20.uk/)
+- 📫 How to reach me: [nagherarohan@gmail.com](https://mail.google.com/mail/u/1/?view=cm&to=nagherarohan@gmail.com&)
+- ⚡ Fun fact: **I love watching Anime/ playing games.**
+- 🕹️ Fun 2D game I created you can play: [Syringe Surfer](https://rohan123rd.itch.io/corona-killer)

@@ -1,5 +1,5 @@
 ![Your paragraph text](https://github.com/user-attachments/assets/6111e535-b6ec-4787-a58b-e864104365ab)
-![](https://www.linkedin.com/in/rohan-naghera/)
+![https://github.com/user-attachments/assets/7eeb9e1a-a6e1-4d39-8325-82e21d26d15c](https://www.linkedin.com/in/rohan-naghera/)
 ‎ 
 #
 <h1 align="center">🤙 Rohan Here! </h1>

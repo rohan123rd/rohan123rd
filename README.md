@@ -1,4 +1,4 @@
-![Your paragraph text](https://github.com/user-attachments/assets/6111e535-b6ec-4787-a58b-e864104365ab)
+![Your paragraph text](https://github.com/user-attachments/assets/45de2772-d7f7-4e76-8bb3-ee0c2bfd577e)
 
 
 <h1 align="center">🤙 Rohan Here! </h1>
